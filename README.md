@@ -18,5 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,python,html,ai,ps,raspberrypi)](https://skillicons.dev)
 
 ----------------------------------------------------------------------------------------------------------------
-
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,discord,github)](https://skillicons.dev)
+<a href="https://instagram.com/nourxsbeta"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
+<a href="https://linkedin.com/in/nour-sbeta"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+<a href="https://discord.com/users/nourxsbeta_95682"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
+<a href="https://github.com/nourxsbeta"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a>
+<a href="https://behance.net/noursbeta1"><img src="https://skillicons.dev/icons?i=behance" alt="Behance"></a>
