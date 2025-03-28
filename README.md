@@ -1,4 +1,4 @@
-### Hi there!
+# Hi there!
 
 ## :hibiscus: **ALL About Nour** :hibiscus:
 
@@ -10,3 +10,13 @@
 
 :mailbox: You can reach me through [Nour Sbeta](https://wa.me/218944624155)
 
+----------------------------------------------------------------------------------------------------------------
+ ## :beginner: Software Skills :beginner: 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,python,html,ai,ps,raspberrypi)](https://skillicons.dev)
+
+----------------------------------------------------------------------------------------------------------------
+
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,discord,github)](https://skillicons.dev)
